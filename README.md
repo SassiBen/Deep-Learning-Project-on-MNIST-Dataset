@@ -7,11 +7,10 @@ This project, conducted by Benalouache Sassi, is an extensive exploration of dee
 
 ## Contents
 
-1. **Perceptron Implementation**: Implementation details of a perceptron using PyTorch, focusing on key tensors involved in the process.
-2. **Shallow Neural Network**: Analysis of a shallow neural network, exploring the impact of various hyperparameters on model performance.
-3. **Deep Neural Network**: Development and analysis of a deep neural network, investigating the influence of learning rate and neuron configuration.
-4. **Convolutional Neural Network (CNN)**: Implementation of a simple CNN for digit classification, inspired by the LeNet-5 architecture.
-5. **Improvement Strategies**: Techniques and modifications employed to enhance the performance of neural network models.
+1. **Shallow Neural Network**: Analysis of a shallow neural network, exploring the impact of various hyperparameters on model performance.
+2. **Deep Neural Network**: Development and analysis of a deep neural network, investigating the influence of learning rate and neuron configuration.
+3. **Convolutional Neural Network (CNN)**: Implementation of a simple CNN for digit classification, inspired by the LeNet-5 architecture.
+4. **Improvement Strategies**: Techniques and modifications employed to enhance the performance of neural network models.
 
 ## Prerequisites
 
