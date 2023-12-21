@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project, conducted by Benalouache Sassi, is an extensive exploration of deep learning techniques applied to the MNIST dataset. The study encompasses various neural network architectures, including shallow and deep networks, convolutional neural networks (CNNs), and techniques for improving model performance. The project is structured into several parts, each focusing on different aspects of neural network implementation and analysis.
+This project, conducted by Benalouache Sassi, is an extensive exploration of deep learning techniques applied to the MNIST dataset using PyTorch (Torch). The study encompasses various neural network architectures, including shallow and deep networks, convolutional neural networks (CNNs), and techniques for improving model performance. The project is structured into several parts, each focusing on different aspects of neural network implementation and analysis in PyTorch.
 
 ## Contents
 
